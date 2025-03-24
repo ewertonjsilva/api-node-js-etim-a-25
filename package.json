@@ -1,0 +1,12 @@
+{
+  "name": "api-node-js-etim-a-25",
+  "version": "1.0.0",
+  "description": "Introdução API NODE JS com MYSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["API", "NODE JS", "EXPRESS", "MYSQL"],
+  "author": "Ewerton",
+  "license": "MIT"
+}
